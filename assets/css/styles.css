@@ -1,0 +1,19 @@
+@media (max-width:500px) {
+  .is-visible {
+    font-size: 45px;
+  }
+}
+
+@media (max-width: 500px) {
+  .blc {
+    font-size: 45px;
+  }
+}
+
+/* #head {
+  margin-bottom: 20px;
+} */
+.about{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
